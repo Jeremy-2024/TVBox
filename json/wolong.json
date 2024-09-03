@@ -5,11 +5,6 @@
     "副标题":"🐉+vod_remarks\"*\"&&\"+🐉",
     "链接":"https://collect.wolongzy.cc/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,",
     "搜索url":"https://collect.wolongzy.cc/api.php/provide/vod/?ac=detail&wd={wd}",
-    "搜索数组":"{&&}",
-    "搜索图片":"vod_pic\"*\"&&\"",
-    "搜索标题":"vod_name\"*\"&&\"",
-    "搜索副标题":"🐉+vod_remarks\"*\"&&\"+🐉",
-    "搜索链接":"https://collect.wolongzy.cc/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,",
     "影片年代":"vod_year\"*\"&&\"",
     "影片地区":"vod_area\"*\"&&\"",
     "导演":"⚡️+vod_director\"*\"&&\"+⚡️",
@@ -19,7 +14,6 @@
     "播放数组":"vod_play_url\"*\"&&\"+#",
     "播放列表":"&&#",
     "播放标题":"&&",
-    "播放链接":"&&",
     "分类":"動作片$5#喜劇片$6#愛情片$7#科幻片$8#恐怖片$9#劇情片$10#戰爭片$11#動畫片$24#紀錄片$22#驚悚片$39#家庭片$42#古裝片$43#歷史片$44#懸疑片$45#犯罪片$46#電影解說$38#台劇$16#陸劇$12#日劇$17#韓劇$14#港劇$13#泰劇$33#歐美劇$15#海外劇$18#中國動漫$25#日本動漫$27#歐美動漫$26#港台綜藝$30#中國綜藝$32#韓國綜藝$31#歐美綜藝$37#籃球$48#足球$51#短片$23#短劇$54#",
     "分类url":"https://collect.wolongzy.cc/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg}&limit=20"
 }

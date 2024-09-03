@@ -5,11 +5,6 @@
     "副标题":"🌸+vod_remarks\"*\"&&\"+🌸",
     "链接":"https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,",
     "搜索url":"https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&wd={wd}",
-    "搜索数组":"{&&}",
-    "搜索图片":"vod_pic\"*\"&&\"",
-    "搜索标题":"vod_name\"*\"&&\"",
-    "搜索副标题":"🌸+vod_remarks\"*\"&&\"+🌸",
-    "搜索链接":"https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,",
     "影片年代":"vod_year\"*\"&&\"",
     "影片地区":"vod_area\"*\"&&\"",
     "导演":"⚡️+vod_director\"*\"&&\"+⚡️",
@@ -19,9 +14,8 @@
     "播放数组":"vod_play_url\"*\"&&\"+#",
     "播放列表":"&&#",
     "播放标题":"&&",
-    "播放链接":"&&",
     "分类":"電影$1#電視劇$2#動漫$3#綜藝$4#短劇$27#",
-    "分类url":"https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg}&limit=20",
+    "分类url":"https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg}",
     "筛选":{
         "1":[
             {"key":"cateId","name":"類型","value":[
