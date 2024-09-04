@@ -8,8 +8,8 @@
     {"key":"索尼","name":"📺|索尼🥈","type":3,"api":"csp_XBPQ","ext":"./json/suoni.json"},
     {"key":"最大","name":"📢|最大🥈","type":3,"api":"csp_XBPQ","ext":"./json/zuida.json"},
     {"key":"鴨鴨","name":"🦆|鴨鴨🥈","type":3,"api":"csp_XBPQ","ext":"./json/yaya.json"},
+    {"key":"臥龍","name":"🐉|臥龍🥈","type":3,"api":"csp_XBPQ","ext":"./json/wolong.json"},
     {"key":"無盡","name":"♾️|無盡🥉","type":3,"api":"csp_XBPQ","ext":"./json/wujin.json"},
-    {"key":"臥龍","name":"🐉|臥龍🥉","type":3,"api":"csp_XBPQ","ext":"./json/wolong.json"},
     {"key":"優質","name":"💯|優質🥉","type":3,"api":"csp_XBPQ","ext":"./json/youzhi.json"},
     {"key":"非凡","name":"✨|非凡🥉","type":3,"api":"csp_XBPQ","ext":"./json/feifan.json"},
     {"key":"飛速","name":"✈️|飛速🥉","type":3,"api":"csp_XBPQ","ext":"./json/feisu.json"}
