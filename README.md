@@ -4,6 +4,8 @@
 
 https://github.com/qist/tvbox
 
+https://github.com/yoursmile66/TVBox
+
 IPTV直播源：
 
 https://github.com/ChiSheng9/iptv
