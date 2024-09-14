@@ -4,13 +4,15 @@
 
 https://github.com/qist/tvbox
 
-https://github.com/yoursmile66/TVBox
+https://github.com/Dong-learn9/TVBox-zyjk
 
 IPTV直播源：
 
 https://github.com/ChiSheng9/iptv
 
 https://github.com/shawn82/fm/blob/main/lib/taiwan.m3u
+
+https://github.com/hus888yu/app/blob/main/ub.txt
 
 ## 筆記
 TVBox APK下載：

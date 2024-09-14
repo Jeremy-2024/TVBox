@@ -1,12 +1,12 @@
 {
-  "spider":"./jar/Yoursmile.jar",
+  "spider":"./jar/XBPQ.jar",
   "lives":[{"name":"live","type":0,"url":"./LIVE.txt","playerType":2,"ua":"okhttp/5.0.0-alpha.14","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "wallpaper":"https://qist.cc/api/api.php",
   "sites":[
     {"key":"黑木耳","name":"🌸|黑木耳🥇","type":3,"api":"csp_XBPQ","ext":"./json/heimuer.json"},
     {"key":"華為","name":"🌺|華為🥇","type":3,"api":"csp_XBPQ","ext":"./json/huaweiba.json"},
-    {"key":"魔都","name":"🧙|魔都🥇","type":3,"api":"csp_XBPQ","ext":"./json/modu.json"},
     {"key":"聚合","name":"🎁|聚合🥇","type":3,"api":"csp_XBPQ","ext":"./json/juhe.json"},
+    {"key":"魔都","name":"🧙|魔都🥇","type":3,"api":"csp_XBPQ","ext":"./json/modu.json"},
     {"key":"索尼","name":"📺|索尼🥈","type":3,"api":"csp_XBPQ","ext":"./json/suoni.json"},
     {"key":"最大","name":"📢|最大🥈","type":3,"api":"csp_XBPQ","ext":"./json/zuida.json"},
     {"key":"鴨鴨","name":"🦆|鴨鴨🥈","type":3,"api":"csp_XBPQ","ext":"./json/yaya.json"},
