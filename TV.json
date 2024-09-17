@@ -1,7 +1,7 @@
 {
   "spider":"./jar/XBPQ.jar",
-  "lives":[{"name":"live","type":0,"url":"./LIVE.txt","playerType":2,"ua":"okhttp/5.0.0-alpha.14","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-  "wallpaper":"https://qist.cc/api/api.php",
+  "lives":[{"type":0,"url":"./LIVE.txt","ua":"okhttp/5.0.0-alpha.14"}],
+  "wallpaper":"./wp.png",
   "sites":[
     {"key":"黑木耳","name":"🌸|黑木耳🥇","type":3,"api":"csp_XBPQ","ext":"./json/heimuer.json"},
     {"key":"華為","name":"🌺|華為🥇","type":3,"api":"csp_XBPQ","ext":"./json/huaweiba.json"},
@@ -15,11 +15,5 @@
     {"key":"優質","name":"💯|優質🥉","type":3,"api":"csp_XBPQ","ext":"./json/youzhi.json"},
     {"key":"非凡","name":"✨|非凡🥉","type":3,"api":"csp_XBPQ","ext":"./json/feifan.json"},
     {"key":"飛速","name":"✈️|飛速🥉","type":3,"api":"csp_XBPQ","ext":"./json/feisu.json"}
-  ],
-  "rules":[
-    {"name":"索尼","hosts":["suonizy"],"regex":["15.1666","15.2666"]},
-    {"name":"臥龍","hosts":["cdn.wl*"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:.*?,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name":"非凡","hosts":["vip.ffzy","hd.ffzy",".ffzy*","super.ffzy","super.ffzy*","svipsvip.ffzy","*.ffzy*"],"regex":["#EXT-X-DISCONTINUITY(?:\n(?!#EXT-X-DISCONTINUITY).*){10}\n#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[a-z0-9]{18}\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1171.*?\\.ts\\s+","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.033333,[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3.960000"]}
-  ],
-  "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com","iqiyi.hbuioo.com","vip.ffzyad.com","wan.51img1.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
+  ]
 }
