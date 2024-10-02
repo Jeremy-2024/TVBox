@@ -6,7 +6,7 @@ https://github.com/qist/tvbox
 
 https://github.com/Dong-learn9/TVBox-zyjk
 
-IPTV直播源：
+IPTV直播源(直播源易失效 無法隨時更新)：
 
 https://github.com/ChiSheng9/iptv
 
