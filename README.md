@@ -10,7 +10,7 @@ IPTV直播源(直播源易失效 無法隨時更新)：
 
 https://github.com/ChiSheng9/iptv
 
-https://github.com/shawn82/fm/blob/main/lib/taiwan.m3u
+https://raw.githubusercontent.com/shawn82/fm/main/lib/smart.txt
 
 https://github.com/hus888yu/app/blob/main/ub.txt
 
