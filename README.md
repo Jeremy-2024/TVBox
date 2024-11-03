@@ -1,4 +1,4 @@
-# 自用TVBox配置文件 請勿轉發
+# 自用TVBox配置文件
 ## 資料來源
 配置文件參考資料：
 
@@ -10,9 +10,7 @@ IPTV直播源(直播源易失效 無法隨時更新)：
 
 https://github.com/ChiSheng9/iptv
 
-https://raw.githubusercontent.com/shawn82/fm/main/lib/smart.txt
-
-https://github.com/hus888yu/app/blob/main/ub.txt
+http://aktv.top/live.m3u
 
 ## 筆記
 TVBox APK下載：
@@ -26,14 +24,6 @@ https://raw.githubusercontent.com/Jeremy-2024/TVBox/main/TV.json
 本地配置地址：
 
 clan://localhost/TVBox/TV.json
-
-直播地址：
-
-https://raw.githubusercontent.com/Jeremy-2024/TVBox/main/LIVE.txt
-
-EPG地址：
-
-https://epg.112114.xyz/?ch={name}&date={date}
 
 ## 注意事項
 所有資源均來自於各路大神無私分享，如有侵權，請聯繫刪除。
