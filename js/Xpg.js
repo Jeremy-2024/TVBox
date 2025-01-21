@@ -5,7 +5,7 @@ const headers = {
     token: 'RXQbgQKl3QkFZkIPGwGvH5kofvCokkkn/a893wC2IId7HQFmy0Eh24osz555X12xGVFxQLTaGuBqU/Y7KU4lStp4UjR7giPxdwoTOsU6R3oc4yZZTQc/yTKh1mH3ckZhx6VsQCEoFf6q',
     version: 'XPGBOX com.phoenix.tv1.3.3',
     user_id: 'XPGBOX',
-    'User-Agent': 'okhttp/5.0.0-alpha.14',
+    'User-Agent': 'AndroidXMedia3/1.5.1',
     screenx: '1280',
     screeny: '720',
     timestamp: '1736412598',
@@ -40,6 +40,7 @@ const search = async (wd, pg) => JSON.stringify({
 });
 
 const play = (flag, id) => JSON.stringify({
+    parse: 0,
     url: `${siteUrl}/m3u8/${id}.m3u8`,
     header: headers
 });
