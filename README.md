@@ -21,7 +21,7 @@ https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
 配置地址：
 
-https://raw.githubusercontent.com/Jeremy-2024/TVBox/main/TV.json
+https://raw.githubusercontent.com/Jeremy-2024/TVBox/refs/heads/main/TV.json
 
 本地配置地址：
 
