@@ -1,5 +1,9 @@
-# 自用TVBox配置文件
+# 自用OK影視配置文件
+
+## 此配置文件僅支援OK影視！！！請至下方連結下載正確版本
+
 ## 資料來源
+
 配置文件參考資料：
 
 https://github.com/qist/tvbox
@@ -10,24 +14,20 @@ https://github.com/shawn82/fm
 
 IPTV直播源(直播源易失效 無法隨時更新)：
 
+https://tv.iill.top/m3u/Gather
+
+https://aktv.top/live.m3u
+
 https://github.com/fanmingming/live
 
-http://aktv.top/live.m3u
-
 ## 筆記
-TVBox APK下載：
 
-https://github.com/o0HalfLife0o/TVBoxOSC/releases
+OK影視 APK下載：
 
-配置地址：
-
-https://raw.githubusercontent.com/Jeremy-2024/TVBox/refs/heads/main/TV.json
-
-本地配置地址：
-
-clan://localhost/TVBox/TV.json
+https://github.com/FongMi/Release/tree/main/apk/release
 
 ## 注意事項
+
 所有資源均來自於各路大神無私分享，如有侵權，請聯繫刪除。
 
 所有以任何方式查看本倉庫內容的人、或直接或間接使用本倉庫內容的使用者都應仔細閱讀此聲明。本倉庫管理者保留隨時更改或補充此免責聲明的權利。一旦使用、複製、修改了本倉庫內容，則視為您已接受此免責聲明。
