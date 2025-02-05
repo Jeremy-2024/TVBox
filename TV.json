@@ -21,6 +21,13 @@
       "api":"https://tang.hz.cz/js/live.js",
       "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
       "logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name":"📺|YouTube🥈",
+      "type":0,
+      "url":"./live/YouTube.txt",
+      "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "sites":[
@@ -65,6 +72,26 @@
       "api":"csp_Gz360"
     },
     {
+      "key":"比特",
+      "name":"💶|比特🥇",
+      "api":"csp_XBPQ",
+      "type":3,
+      "ext":{
+        "数组":"<li><a&&</a></h3>",
+        "副标题":"💶+<span>&&</span>+💶",
+        "搜索url":"https://www.bttwo.net/xssssearch?q={wd}",
+        "搜索副标题":"💶+jidi\"><span>&&</span>+💶",
+        "线路标题":"💶bttwo💶$$$",
+        "影片地区":"地区：&&</li",
+        "导演":"⚡️+导演：&&</li+⚡️",
+        "主演":"🎯+主演：&&</li+🎯",
+        "简介":"💶+<span>&&</span>+💶🔥+yp_context\">&&</div>+🔥",
+        "播放数组":"<div class=\"paly_list_btn\">&&</div>",
+        "分类":"全部$movie_bt#電影$gf#電視劇$dsj#",
+        "分类url":"https://www.bttwo.net/{cateId}"
+      }
+    },
+    {
       "key":"獨播",
       "name":"📽️|獨播🥇",
       "type":4,
@@ -102,6 +129,58 @@
         "线路标题":">&&</a>[替换:线路1>>🥟海外線路🥟#线路5>>🥟中國線路🥟]",
         "分类":"电影$index1#电视剧$index2#动漫$index41",
         "分类url":"https://www.jiaozi.me/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&jq={class}&area={area}&year={year}&letter={letter}&yuyan={lang}"
+      }
+    },
+    {
+      "key":"奇優",
+      "name":"🥝|奇優🥇",
+      "api":"csp_XBPQ",
+      "type":3,
+      "ext":{
+        "副标题":"🥝+text-right\">&&</span>+🥝",
+        "影片地区":"🌏+地区：</span>&&<span+🌏",
+        "导演":"⚡️+导演：</span>&&</p>+⚡️",
+        "演员":"🎯+主演：</span>&&</p>+🎯",
+        "简介":"🥝+text-right\">&&</span>+🥝🔥+简介：</span>&&<a+🔥",
+        "线路数组":"data-toggle=&&</li>",
+        "线路标题":">&&</a>[替换:播放源1>>🥝優選🥝#播放源2>>🥝nby🥝#播放源3>>🥝非凡🥝#播放源4>>🥝量子🥝]",
+        "分类url":"http://www.dyxz2.com/list/{cateId}_{catePg}.html?order=time"
+      }
+    },
+    {
+      "key":"金牌",
+      "name":"🏅|金牌🥇",
+      "type":3,
+      "api":"csp_XBPQ",
+      "ext":{
+        "数组":"{&&}",
+        "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+        "图片":"vodPic\":\"&&\"",
+        "标题":"vodName\":\"&&\"",
+        "副标题":"🏅+vodRemarks\":\"&&\"+🏅",
+        "链接":"https://www.cfkj86.com/detail/+vodId\":&&,",
+        "搜索url":"https://www.cfkj86.com/vod/search/{wd}",
+        "搜索模式":"1",
+        "搜索二次截取":"result*list\":\\[&&\\]",
+        "搜索数组":"{&&}",
+        "搜索标题":"vodName\":\"&&\"",
+        "搜索图片":"vodPic\":\"&&\"",
+        "搜索副标题":"🏅+vodRemarks\":\"&&\"+🏅",
+        "搜索链接":"https://www.cfkj86.com/detail/+vodId\":&&,",
+        "影片年代":"vodYear\":\"&&\"",
+        "影片地区":"🌏+vodArea\":\"&&\"+🌏",
+        "导演":"⚡️+vodDirector\":\"&&\"+⚡️",
+        "主演":"🎯+vodActor\":\"&&\"+🎯",
+        "简介":"🏅+vodRemarks\":\"&&\"+🏅🔥+vodContent\":\"&&\"+🔥",
+        "线路标题":"🏅jpyy🏅$$$",
+        "播放数组":"episodeList\":\\[&&\\][替换:nid\":>>nid\":/1/]",
+        "播放列表":"{&&}",
+        "播放标题":"name\":\"&&\"",
+        "播放链接前缀":"https://www.cfkj86.com/vod/play/+data\":{\"vodId\":&&,",
+        "播放链接":"nid\":&&,",
+        "强制解析":"0",
+        "分类":"電影$1#電視劇$2#綜藝$3#動漫$4",
+        "分类url":"https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
       }
     },
     {

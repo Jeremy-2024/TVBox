@@ -1,30 +1,14 @@
 # 自用OK影視配置文件
 
-## 此配置文件僅支援OK影視！！！請至下方連結下載正確版本
+## 此配置文件僅支援OK影視！！！
 
-## 資料來源
-
-配置文件參考資料：
-
-https://github.com/qist/tvbox
-
-https://github.com/Dong-learn9/TVBox-zyjk
-
-https://github.com/shawn82/fm
-
-IPTV直播源(直播源易失效 無法隨時更新)：
-
-https://tv.iill.top/m3u/Gather
-
-https://aktv.top/live.m3u
-
-https://github.com/fanmingming/live
+## 不支援FongMi影視、TVBox，請至下方連結下載正確版本
 
 ## 筆記
 
 OK影視 APK下載：
 
-https://github.com/FongMi/Release/tree/main/apk/release
+https://github.com/FongMi/Release/tree/okjack/apk/release
 
 ## 注意事項
 
